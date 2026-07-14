@@ -19,5 +19,5 @@ A 2-player TicTacToe game with graphical interface built using Java Swing.
 3. Run: java TicTacToe
 
 ## Screenshots
-![Start](screenshot_start.png)
-![Win](screenshot_win.png)
+![Game Screenshot 1](screenshot1.png)
+![Game Screenshot 2](screenshot2.png)
